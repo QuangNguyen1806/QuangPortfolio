@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/QuangPortfolio/static/css/main.55284b07.css",
+    "main.js": "/QuangPortfolio/static/js/main.cf61ed3d.js",
+    "static/js/488.15c117bb.chunk.js": "/QuangPortfolio/static/js/488.15c117bb.chunk.js",
+    "static/media/Quang_logo_NB.png": "/QuangPortfolio/static/media/Quang_logo_NB.bfea0040254fe30a1b8e.png",
+    "static/media/Quang_logo.png": "/QuangPortfolio/static/media/Quang_logo.7dc4119a70e504b01775.png",
+    "static/media/C++Icon.png": "/QuangPortfolio/static/media/C++Icon.8011c12c3bdf3418fc5e.png",
+    "static/media/helvetica-neu.ttf": "/QuangPortfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/logo_sub.png": "/QuangPortfolio/static/media/logo_sub.3e8ec4b109cd1145ea7d.png",
+    "static/media/LaBelleAurore.woff2": "/QuangPortfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/QuangPortfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/QuangPortfolio/index.html",
+    "main.55284b07.css.map": "/QuangPortfolio/static/css/main.55284b07.css.map",
+    "main.cf61ed3d.js.map": "/QuangPortfolio/static/js/main.cf61ed3d.js.map",
+    "488.15c117bb.chunk.js.map": "/QuangPortfolio/static/js/488.15c117bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55284b07.css",
+    "static/js/main.cf61ed3d.js"
+  ]
+}
