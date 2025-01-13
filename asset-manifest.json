@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/QuangPortfolio/static/css/main.df6a386e.css",
-    "main.js": "/QuangPortfolio/static/js/main.9ca321ff.js",
+    "main.js": "/QuangPortfolio/static/js/main.5c67c993.js",
     "static/js/488.15c117bb.chunk.js": "/QuangPortfolio/static/js/488.15c117bb.chunk.js",
     "static/media/Quang_logo_NB.png": "/QuangPortfolio/static/media/Quang_logo_NB.bfea0040254fe30a1b8e.png",
     "static/media/Quang_logo.png": "/QuangPortfolio/static/media/Quang_logo.7dc4119a70e504b01775.png",
@@ -12,11 +12,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/QuangPortfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/QuangPortfolio/index.html",
     "main.df6a386e.css.map": "/QuangPortfolio/static/css/main.df6a386e.css.map",
-    "main.9ca321ff.js.map": "/QuangPortfolio/static/js/main.9ca321ff.js.map",
+    "main.5c67c993.js.map": "/QuangPortfolio/static/js/main.5c67c993.js.map",
     "488.15c117bb.chunk.js.map": "/QuangPortfolio/static/js/488.15c117bb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.df6a386e.css",
-    "static/js/main.9ca321ff.js"
+    "static/js/main.5c67c993.js"
   ]
 }
