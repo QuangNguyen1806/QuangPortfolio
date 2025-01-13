@@ -8,12 +8,10 @@ import Contact from './components/Contact'
 function App() {
   return (
     <HashRouter>
-      <HashRouter >
         <HashRouter path="/" element={<Layout />}>
           <HashRouter index element={<Home />} />
           <HashRouter path="contact" element={<Contact />} />
           <HashRouter path="about" element={<About />} />
-        </HashRouter>
       </HashRouter>
       </HashRouter>
   )
