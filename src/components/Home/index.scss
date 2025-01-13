@@ -71,3 +71,23 @@
       }
     }
   }
+  .solid-logo {
+    position: absolute;
+    top: auto;
+    right: auto;
+    bottom: auto;
+    left: 0;
+    margin: auto;
+    width: 100%;
+    opacity: 1;
+    z-index: 1;
+  }
+
+  .solid-logo{
+    position: absolute;
+    left: 0;
+    height: 650px;
+    width: auto;
+    left: 725px;
+    transition: fadeIn;
+  }

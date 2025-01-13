@@ -33,19 +33,18 @@ const About = () => {
             />
           </h1>
           <p>
-            I'm an ambitious Software Engineer looking for work as a Software Developer
-            in a tech company, primarily an internship, in order to challenge myself more and
-            get to learn more diverse and state-of-the-art technologies.
+            I'm an ambitious Computer Science student looking for an internship in Software Engineering,
+            either Back End or Front End, in order to challenge myself and
+            learn from industry experts.
           </p>
           <p align="LEFT">
-            I'm quite outgoing, curious, mostly hard working, and always try my best 
-            at everything I do to achieve the best results so that when I look back,
-            I would not regret anything I do.
+            I'm very outgoing, curious, hard working, and determined. I always try my best 
+            at everything I do to achieve the best results.
           </p>
           <p>
-            I'm quite efficient at Object Oriented Programming and one of my favorite programming
-            languages is C++. I've had more than 4 years of experiences with programming in general.
-            If you wish to know more about my technical skill, below is my attached Resume.
+            I'm very efficient at Object Oriented Programming and my favorite programming
+            languages is C++. I've had more than 4 years of experiences with coding.
+            If you'd like to know more about my technical skill, please see attached my resume.
           </p>
         </div>
 

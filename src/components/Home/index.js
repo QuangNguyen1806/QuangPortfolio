@@ -3,7 +3,7 @@ import './index.scss'
 import { useState, useEffect } from 'react';
 import AnimatedLetters from '../AnimatedLetters';
 import Loader from 'react-loaders'
-import Logo from './Logo'
+import Quang_logo from '../../assets/images/Quang_logo_NB.png'
 
 const Home = () => {
     const [letterClass, setLetterClass] = useState('text-animate')
@@ -39,7 +39,11 @@ const Home = () => {
                 <h2> FrontEnd Developer / Backend Developer</h2>
                 <Link to='/contact' className = "flat-button"> CONTACT ME </Link >
             </div>
-            <Logo />
+            <img
+        className="solid-logo"
+        src={Quang_logo}
+        opacityTransition = {1000}
+      />
             </div>
             <Loader type = "pacman" />
             </>
