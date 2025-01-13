@@ -7,7 +7,7 @@ import Contact from './components/Contact'
 
 function App() {
   return (
-    <Routes>
+    <Routes> ie 
         <Route path="" element={<Layout />}>
           <Route index element={<Home />} path = 'https://quangnguyen1806.github.io/QuangPortfolio/'/>
           <Route path="contact" element={<Contact />} />
